@@ -35,7 +35,7 @@ jobs:
           echo Add other actions to build,
           echo test, and deploy your project.
 
-jobs:
+
   live_preview_job:
     runs-on: ubuntu-latest
     name: A job to test live preview
